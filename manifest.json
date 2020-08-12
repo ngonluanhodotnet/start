@@ -1,11 +1,6 @@
 {
   "name": "www.ngonluanho.net",
   "short_name": "ngọn lửa nhỏ",
-  "start_url":"www.ngonluanho.net?source=pwa",
-  "display": "standalone",
-  "background_color": "#fff",
-  "theme_color": "#fff",
-  "description": "nhóm lên hi vọng, khơi nguồn yêu thương",
   "icons": [{
     "src": "https://lh6.googleusercontent.com/-tKaYjbatwL8/Xxe0-07J0GI/AAAAAAAAJ-E/ur0nSU2w8HUf3CZfaO84Sf_1URf4n557ACNcBGAsYHQ/s48/nln-192px.png",
     "sizes": "48x48",
@@ -75,4 +70,3 @@
         } ]
     } ]
 }
-
