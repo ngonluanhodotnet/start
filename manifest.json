@@ -1,1 +1,44 @@
-{"orientation":"portrait","name":"S1BIOSE","short_name":"S1BIOSE","display":"standalone","background_color":"#ffffff","theme_color":"#ffffff","description":"nhóm lên hi vọng, khơi nguồn yêu thương","lang":"vi","icons":[{"src":"https://lh6.googleusercontent.com/-mnXlQwgItNQ/Xxey3s8po8I/AAAAAAAAJ94/iPjdv-rvSRgJWJPFsNy8Eimas76OY40MgCNcBGAsYHQ/s512/nln-512.png","sizes":"512x512","type":"image\/png"},{"src":"https://lh6.googleusercontent.com/-tKaYjbatwL8/Xxe0-07J0GI/AAAAAAAAJ-E/ur0nSU2w8HUf3CZfaO84Sf_1URf4n557ACNcBGAsYHQ/s192/nln-192px.png","sizes":"192x192","type":"image\/png"},{"src":"https://lh6.googleusercontent.com/-tKaYjbatwL8/Xxe0-07J0GI/AAAAAAAAJ-E/ur0nSU2w8HUf3CZfaO84Sf_1URf4n557ACNcBGAsYHQ/s144/nln-192px.png","sizes":"144x144","type":"image\/png"}],"start_url":"\/?source=pwa","scope":"\/"}
+{
+  "name": "www.ngonluanho.net",
+  "short_name": "ngọn lửa nhỏ",
+  "start_url":"www.ngonluanho.net?source=pwa",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "nhóm lên hi vọng, khơi nguồn yêu thương",
+  "icons": [{
+    "src": "https://lh6.googleusercontent.com/-tKaYjbatwL8/Xxe0-07J0GI/AAAAAAAAJ-E/ur0nSU2w8HUf3CZfaO84Sf_1URf4n557ACNcBGAsYHQ/s48/nln-192px.png",
+    "sizes": "48x48",
+    "type": "image/png",
+      "purpose": "any maskable"
+  }, {
+    "src": "https://lh6.googleusercontent.com/-tKaYjbatwL8/Xxe0-07J0GI/AAAAAAAAJ-E/ur0nSU2w8HUf3CZfaO84Sf_1URf4n557ACNcBGAsYHQ/s72/nln-192px.png",
+    "sizes": "72x72",
+    "type": "image/png",
+      "purpose": "any maskable"
+  }, {
+    "src": "https://lh6.googleusercontent.com/-tKaYjbatwL8/Xxe0-07J0GI/AAAAAAAAJ-E/ur0nSU2w8HUf3CZfaO84Sf_1URf4n557ACNcBGAsYHQ/s96/nln-192px.png",
+    "sizes": "96x96",
+    "type": "image/png",
+      "purpose": "any maskable"
+  }, {
+    "src": "https://lh6.googleusercontent.com/-tKaYjbatwL8/Xxe0-07J0GI/AAAAAAAAJ-E/ur0nSU2w8HUf3CZfaO84Sf_1URf4n557ACNcBGAsYHQ/s144/nln-192px.png",
+    "sizes": "144x144",
+    "type": "image/png",
+      "purpose": "any maskable"
+  }, {
+    "src": "https://lh6.googleusercontent.com/-tKaYjbatwL8/Xxe0-07J0GI/AAAAAAAAJ-E/ur0nSU2w8HUf3CZfaO84Sf_1URf4n557ACNcBGAsYHQ/s168/nln-192px.png",
+    "sizes": "168x168",
+    "type": "image/png",
+      "purpose": "any maskable"
+  }, {
+    "src": "https://lh6.googleusercontent.com/-tKaYjbatwL8/Xxe0-07J0GI/AAAAAAAAJ-E/ur0nSU2w8HUf3CZfaO84Sf_1URf4n557ACNcBGAsYHQ/s192/nln-192px.png",
+    "sizes": "192x192",
+    "type": "image/png",
+      "purpose": "any maskable"
+  }, {
+    "src": "https://lh6.googleusercontent.com/-mnXlQwgItNQ/Xxey3s8po8I/AAAAAAAAJ94/iPjdv-rvSRgJWJPFsNy8Eimas76OY40MgCNcBGAsYHQ/s512/nln-512.png",
+    "sizes": "512x512",
+      "purpose": "any maskable"
+  }]
+}
