@@ -1,7 +1,7 @@
 {
   "name": "www.ngonluanho.net",
   "short_name": "ngọn lửa nhỏ",
-  "start_url": "https://www.ngonluanho.net/p/ngon-lua-nho.html",
+  "start_url":"\/?source=pwa","scope":"\/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#fff",
